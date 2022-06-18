@@ -188,6 +188,12 @@ h6 {
   text-transform: uppercase;
 }
 
+@media (max-width: 1366px) {
+  .header .logo {
+    font-size: 15px;
+  }
+}
+
 #header .logo a {
   color: #fff;
 }
